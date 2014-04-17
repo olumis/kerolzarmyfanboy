@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1397751641 source:d:\jargon\kerolzarmyfanboy\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1397752316 source:d:\tutorial\htdocs\kerolzarmyfanboy\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
